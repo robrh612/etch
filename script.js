@@ -5,6 +5,8 @@ let size = 64;
 
 //rows
 // function etch(size){
+
+//sizing sets cell size by dividing grid area by number of size and subtracting 2px.
   let sizing = ((960 / size)-2);
 
   for (r = 0; r < size; r++){
