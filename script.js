@@ -5,9 +5,9 @@ let cells = document.getElementsByClassName("cell")
 
 let size = 16;
 //rows
-let etch = () => {
-  
-  //sizing formula ( grid size is 960 X 960 ) grid size divided by size requested minus 2 for border line to keep cells inside Grid box
+// function etch(size){
+
+//sizing sets cell size by dividing grid area by number of size and subtracting 2px.
   let sizing = ((960 / size)-2);
 
 // creates rows
