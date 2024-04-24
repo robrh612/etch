@@ -1,5 +1,5 @@
 body{
-    /* background-color: gray; */
+    background-color: grey;
 }
 .padContainer {
     display: flex;
@@ -14,8 +14,7 @@ body{
     border: 1px solid black;
       }
   .cell {
-     border: 1px solid black;
-     
-     /* background-color: blue; */
+     border: 1px solid white;     
+     background-color: white;
+ 
   }
-  
