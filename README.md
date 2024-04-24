@@ -1,5 +1,6 @@
 # etch
 etch - a - sketch for Odin Project 
 
-4.13.24 - CREATING GRID AND WORKING ON EVENTS
-4.12.24 - CREATING BASE FILES.
+Simple "Etch - A - Sketch like game for the Odin Project.
+
+I chose to go with changing the boxes multi-color instead of the standard transition from a lighter color to a darker color.
